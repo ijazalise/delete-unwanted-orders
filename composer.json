@@ -2,7 +2,7 @@
     "name": "innovadeltech/magento2-delete-orders",
     "description": "Magento 2 extension allows the site owner to create a category that links to an external site,intern page cms , home page or custum internal route",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
